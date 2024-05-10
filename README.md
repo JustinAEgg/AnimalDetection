@@ -10,7 +10,8 @@
 </table>
 
 <h2> Examples </h2>
-Examples videos can be obtained from my drive [here](https://drive.google.com/drive/folders/19156fSAxYwLcZza1mOn4T7gf-dLpgMki?usp=drive_link) and so can the pt file weights that were trained.
+Examples videos can be obtained from my drive <a href="https://drive.google.com/drive/folders/19156fSAxYwLcZza1mOn4T7gf-dLpgMki?usp=drive_link">Link to Google Drive</a>
+ and so can the pt file weights that were trained.
 
 <h2> Screenshot of Gradio Front End </h2>
 The app uses a very basic Gradio Frontend application to input a youtube link and get the detected video as our output.
